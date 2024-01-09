@@ -1,0 +1,10 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px; 
+    background-color: transparent;
+    background-color: rgb(125, 127, 164);
+    height: 50px;
+    
+}
